@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{238880d0-065e-41c0-93fd-57060acf0406}">
+		<property name="assetPath">
+			<value>Strings/Intro/SSI - Spic Strings CG4.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>8.5693333333333328</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{67e96546-2fa5-4646-ba64-bf972beeeda5}</destination>
+		</relationship>
+	</object>
+</objects>

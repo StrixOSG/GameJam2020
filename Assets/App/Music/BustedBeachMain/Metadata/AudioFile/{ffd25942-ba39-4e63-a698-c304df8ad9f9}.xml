@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{ffd25942-ba39-4e63-a698-c304df8ad9f9}">
+		<property name="assetPath">
+			<value>Short Clarinet/High C.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.7142916666666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{67e96546-2fa5-4646-ba64-bf972beeeda5}</destination>
+		</relationship>
+	</object>
+</objects>

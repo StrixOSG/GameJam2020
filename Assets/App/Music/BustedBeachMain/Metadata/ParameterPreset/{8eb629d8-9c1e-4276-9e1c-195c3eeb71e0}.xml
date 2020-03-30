@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{8eb629d8-9c1e-4276-9e1c-195c3eeb71e0}">
+		<property name="name">
+			<value>Karrie Distance</value>
+		</property>
+		<relationship name="folder">
+			<destination>{3d66146d-173c-4fe3-b237-3f992644a7f5}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{adf31cee-350a-45fb-830f-6df7e1487745}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{adf31cee-350a-45fb-830f-6df7e1487745}">
+		<property name="maximum">
+			<value>30</value>
+		</property>
+		<property name="initialValue">
+			<value>30</value>
+		</property>
+		<property name="seekSpeed">
+			<value>5</value>
+		</property>
+	</object>
+</objects>

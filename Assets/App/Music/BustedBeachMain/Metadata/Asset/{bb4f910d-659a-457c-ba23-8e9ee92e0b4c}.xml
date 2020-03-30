@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="EncodableAsset" id="{bb4f910d-659a-457c-ba23-8e9ee92e0b4c}">
+		<property name="assetPath">
+			<value>Oboe/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{67e96546-2fa5-4646-ba64-bf972beeeda5}</destination>
+		</relationship>
+	</object>
+</objects>

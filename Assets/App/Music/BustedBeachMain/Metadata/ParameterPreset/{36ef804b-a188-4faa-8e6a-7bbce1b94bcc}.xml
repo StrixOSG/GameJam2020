@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{36ef804b-a188-4faa-8e6a-7bbce1b94bcc}">
+		<property name="name">
+			<value>Karrie Friend State</value>
+		</property>
+		<relationship name="folder">
+			<destination>{3d66146d-173c-4fe3-b237-3f992644a7f5}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{ad070628-d1f7-4c75-b57e-da2e74eaa0ff}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{ad070628-d1f7-4c75-b57e-da2e74eaa0ff}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Neutral</value>
+			<value>Friend</value>
+			<value>Plus Friend</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

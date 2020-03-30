@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{5e457310-091e-4a73-b6e7-7537a31ddab6}">
+		<property name="name">
+			<value>Get Off The Boat</value>
+		</property>
+		<relationship name="folder">
+			<destination>{3d66146d-173c-4fe3-b237-3f992644a7f5}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{4b2f3716-7dc5-4c69-bb5b-18c61cc58e0b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{4b2f3716-7dc5-4c69-bb5b-18c61cc58e0b}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>6</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

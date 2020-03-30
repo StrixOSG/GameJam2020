@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="EncodableAsset" id="{278a7269-9917-4c3a-a45d-3bde96190c61}">
+		<property name="assetPath">
+			<value>Clarinet Full/Intro/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{67e96546-2fa5-4646-ba64-bf972beeeda5}</destination>
+		</relationship>
+	</object>
+</objects>

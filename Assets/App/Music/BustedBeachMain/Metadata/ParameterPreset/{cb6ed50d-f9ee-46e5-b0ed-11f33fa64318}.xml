@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{cb6ed50d-f9ee-46e5-b0ed-11f33fa64318}">
+		<property name="name">
+			<value>Frank Distance</value>
+		</property>
+		<relationship name="folder">
+			<destination>{3d66146d-173c-4fe3-b237-3f992644a7f5}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{e7d1fa1a-3fd4-44db-a8a6-0cfe90d21f55}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{e7d1fa1a-3fd4-44db-a8a6-0cfe90d21f55}">
+		<property name="maximum">
+			<value>30</value>
+		</property>
+		<property name="initialValue">
+			<value>30</value>
+		</property>
+		<property name="seekSpeed">
+			<value>5</value>
+		</property>
+	</object>
+</objects>

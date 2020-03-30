@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{24a8ad61-e76b-4b98-8e7c-1c69e2eba248}">
+		<property name="name">
+			<value>Chad Distance</value>
+		</property>
+		<relationship name="folder">
+			<destination>{3d66146d-173c-4fe3-b237-3f992644a7f5}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{bdc14b60-83a2-46c8-a267-1e20b491d8da}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{bdc14b60-83a2-46c8-a267-1e20b491d8da}">
+		<property name="maximum">
+			<value>30</value>
+		</property>
+		<property name="initialValue">
+			<value>30</value>
+		</property>
+		<property name="seekSpeed">
+			<value>5</value>
+		</property>
+	</object>
+</objects>

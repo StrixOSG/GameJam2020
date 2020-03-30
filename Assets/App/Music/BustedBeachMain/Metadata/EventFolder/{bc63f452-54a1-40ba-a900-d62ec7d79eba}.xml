@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="EventFolder" id="{bc63f452-54a1-40ba-a900-d62ec7d79eba}">
+		<property name="name">
+			<value>Short Notes Slow</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1dc9da4b-668e-4b19-833b-2462ad3e0c46}</destination>
+		</relationship>
+	</object>
+</objects>

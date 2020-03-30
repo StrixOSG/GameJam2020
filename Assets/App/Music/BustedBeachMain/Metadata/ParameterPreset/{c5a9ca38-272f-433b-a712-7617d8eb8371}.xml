@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{c5a9ca38-272f-433b-a712-7617d8eb8371}">
+		<property name="name">
+			<value>Distance to House</value>
+		</property>
+		<relationship name="folder">
+			<destination>{3d66146d-173c-4fe3-b237-3f992644a7f5}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{ff2b872a-c062-47cb-8c99-413bcc6214ed}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{ff2b872a-c062-47cb-8c99-413bcc6214ed}">
+		<property name="maximum">
+			<value>100</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>5</value>
+		</property>
+	</object>
+</objects>

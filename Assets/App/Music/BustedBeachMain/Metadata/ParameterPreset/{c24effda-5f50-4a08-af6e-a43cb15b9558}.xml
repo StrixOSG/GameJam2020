@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{c24effda-5f50-4a08-af6e-a43cb15b9558}">
+		<property name="name">
+			<value>Leo Distance</value>
+		</property>
+		<relationship name="folder">
+			<destination>{3d66146d-173c-4fe3-b237-3f992644a7f5}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{5f32684e-652a-4b6c-b025-1105e71cf97f}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{5f32684e-652a-4b6c-b025-1105e71cf97f}">
+		<property name="maximum">
+			<value>30</value>
+		</property>
+		<property name="initialValue">
+			<value>30</value>
+		</property>
+		<property name="seekSpeed">
+			<value>5</value>
+		</property>
+	</object>
+</objects>

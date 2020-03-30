@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="EventFolder" id="{1087ebbe-5b4c-4e8b-9d06-9d95365a0b18}">
+		<property name="name">
+			<value>Staccatto Notes</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1dc9da4b-668e-4b19-833b-2462ad3e0c46}</destination>
+		</relationship>
+	</object>
+</objects>

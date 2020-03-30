@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{9e5eb0b1-42be-47db-9c38-3c23e906b01b}">
+		<property name="name">
+			<value>Leo Friend State</value>
+		</property>
+		<relationship name="folder">
+			<destination>{3d66146d-173c-4fe3-b237-3f992644a7f5}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{f90def08-d89c-473c-871a-f1b47da18403}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{f90def08-d89c-473c-871a-f1b47da18403}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Neutral</value>
+			<value>Friend</value>
+			<value>Plus Friend</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

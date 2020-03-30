@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{7e74192b-467b-4a68-ad66-920dd17184e1}">
+		<property name="name">
+			<value>All Plus Friend</value>
+		</property>
+		<relationship name="folder">
+			<destination>{3d66146d-173c-4fe3-b237-3f992644a7f5}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{4989f3bf-2852-4339-a3d3-4fda75f89e33}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{4989f3bf-2852-4339-a3d3-4fda75f89e33}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
