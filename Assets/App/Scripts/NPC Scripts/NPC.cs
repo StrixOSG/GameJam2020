@@ -9,6 +9,10 @@ public class NPC : MonoBehaviour
     public string name;
     public string[] speech;
     public int friendship; //1 to 5: meet, houseless, neutral, friendly, +friendly
+    public string[][] speeches;
+    public  int[] reqf;
+    public  int[] reqq;
+    public int speechIndex;
 
     /// <summary>
     /// Moves the NPC down.

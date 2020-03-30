@@ -4,11 +4,6 @@ using UnityEngine;
 
 public class Leo : NPC {
 
-    string[][] speeches;
-    int[] reqf;
-    int[] reqq;
-    int speechIndex;
-
     void setSpeech(int ind, string str, int reqf1, int reqq1) {
         speeches[ind] = new string[1];
         speeches[ind][0] = str;
@@ -17,6 +12,10 @@ public class Leo : NPC {
 
     // Start is called before the first frame update
     void Start() {
+
+        name = "Leo";
+        NPCController.NPCs.Add(name, this);
+
         speeches = new string[13][];
         reqf = new int[13];
         reqq = new int[13];

@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-8986683270555140963
+--- !u!114 &-9211426252222792609
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -10,48 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 4
+  m_Name: parameter:/Note Picker/Get Off The Boat
   m_EditorClassIdentifier: 
-  Name: Note 4
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-8788437552743604179
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Yvonne Distance
-  m_EditorClassIdentifier: 
-  Name: Yvonne Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 0
---- !u!114 &-8751764444314135716
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 3
-  m_EditorClassIdentifier: 
-  Name: Note 3
+  Name: Get Off The Boat
   Min: 0
   Max: 6
   Default: 0
   Exists: 1
---- !u!114 &-8511212317650643117
+--- !u!114 &-8951981138498190388
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -61,82 +27,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 8
-  m_EditorClassIdentifier: 
-  Name: Note 8
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-8478414748806803235
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Distance to House
-  m_EditorClassIdentifier: 
-  Name: Distance to House
-  Min: 0
-  Max: 100
-  Default: 0
-  Exists: 0
---- !u!114 &-8368300887038486415
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 4
-  m_EditorClassIdentifier: 
-  Name: Note 4
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-8324052961749771134
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 8
-  m_EditorClassIdentifier: 
-  Name: Note 8
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &-8298530963262215193
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 1
+  m_Name: parameter:/Main Music/Note 1
   m_EditorClassIdentifier: 
   Name: Note 1
   Min: 0
   Max: 6
   Default: 0
   Exists: 1
---- !u!114 &-8285427115185673672
+--- !u!114 &-7761195728109377738
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -146,134 +44,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 2
+  m_Name: parameter:/Main Music/Note 5
   m_EditorClassIdentifier: 
-  Name: Note 2
+  Name: Note 5
   Min: 0
   Max: 6
   Default: 0
   Exists: 0
---- !u!114 &-8252001968697859671
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 8
-  m_EditorClassIdentifier: 
-  Name: Note 8
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-8217329873874967633
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 7
-  m_EditorClassIdentifier: 
-  Name: Note 7
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-8203865982185292574
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
-  m_Name: bank:/Master.bank
-  m_EditorClassIdentifier: 
-  Path: Assets/App/Music/BustedBeachMain/Build/Desktop/Master.bank
-  SubDir: 
-  lastModified: 637162444477311197
-  LoadResult: 0
-  FileSizes: []
-  Exists: 0
---- !u!114 &-8199562441640097383
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 8
-  m_EditorClassIdentifier: 
-  Name: Note 8
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-8025233811992743557
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 3
-  m_EditorClassIdentifier: 
-  Name: Note 3
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-7983087096334262732
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 8
-  m_EditorClassIdentifier: 
-  Name: Note 8
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &-7899000211118700614
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 8
-  m_EditorClassIdentifier: 
-  Name: Note 8
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-7574179769286812637
+--- !u!114 &-7489419534644061742
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -290,7 +68,7 @@ MonoBehaviour:
   Max: 6
   Default: 0
   Exists: 0
---- !u!114 &-7316426599119606706
+--- !u!114 &-7460233944290975631
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -300,14 +78,116 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 4
+  m_Name: parameter:/Main Music/Chad Friend State
   m_EditorClassIdentifier: 
-  Name: Note 4
+  Name: Chad Friend State
+  Min: 0
+  Max: 3
+  Default: 0
+  Exists: 1
+--- !u!114 &-7342405099424830725
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Note 2
+  m_EditorClassIdentifier: 
+  Name: Note 2
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 0
+--- !u!114 &-7185581489325468068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Intro Music/Note 8
+  m_EditorClassIdentifier: 
+  Name: Note 8
   Min: 0
   Max: 6
   Default: 0
   Exists: 1
---- !u!114 &-7191709335603070466
+--- !u!114 &-7089056015445125118
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Chad Distance
+  m_EditorClassIdentifier: 
+  Name: Chad Distance
+  Min: 0
+  Max: 30
+  Default: 30
+  Exists: 0
+--- !u!114 &-7063523549984030811
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Note 2
+  m_EditorClassIdentifier: 
+  Name: Note 2
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 1
+--- !u!114 &-6913974744409640273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Intro Music/Note 6
+  m_EditorClassIdentifier: 
+  Name: Note 6
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 0
+--- !u!114 &-6562595379189125946
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Note 6
+  m_EditorClassIdentifier: 
+  Name: Note 6
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 0
+--- !u!114 &-5775986822905996268
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -324,7 +204,7 @@ MonoBehaviour:
   Max: 6
   Default: 0
   Exists: 0
---- !u!114 &-7185313272554044821
+--- !u!114 &-5376579674292858604
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -334,65 +214,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Frank Friend State
+  m_Name: parameter:/Intro Music/At House
   m_EditorClassIdentifier: 
-  Name: Frank Friend State
+  Name: At House
   Min: 0
-  Max: 3
-  Default: 0
-  Exists: 0
---- !u!114 &-7180414044218144958
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 8
-  m_EditorClassIdentifier: 
-  Name: Note 8
-  Min: 0
-  Max: 6
+  Max: 2
   Default: 0
   Exists: 1
---- !u!114 &-7120085648223432694
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Karrie Friend State
-  m_EditorClassIdentifier: 
-  Name: Karrie Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 0
---- !u!114 &-6962091891163313415
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 7
-  m_EditorClassIdentifier: 
-  Name: Note 7
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &-6603011682881134081
+--- !u!114 &-4765728833806123085
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -409,7 +238,7 @@ MonoBehaviour:
   Max: 6
   Default: 0
   Exists: 0
---- !u!114 &-6560754396209629413
+--- !u!114 &-4678231487866425525
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -419,31 +248,201 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Chad Friend State
+  m_Name: parameter:/Intro Music/Note 2
   m_EditorClassIdentifier: 
-  Name: Chad Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 0
---- !u!114 &-6304712509412940908
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 6
-  m_EditorClassIdentifier: 
-  Name: Note 6
+  Name: Note 2
   Min: 0
   Max: 6
   Default: 0
   Exists: 1
---- !u!114 &-6237783228776126287
+--- !u!114 &-4560563563439740173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Yvonne Distance
+  m_EditorClassIdentifier: 
+  Name: Yvonne Distance
+  Min: 0
+  Max: 30
+  Default: 30
+  Exists: 1
+--- !u!114 &-4395653632951536636
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Intro Music/At House
+  m_EditorClassIdentifier: 
+  Name: At House
+  Min: 0
+  Max: 2
+  Default: 0
+  Exists: 0
+--- !u!114 &-4300789119926699570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Intro Music/Get Off The Boat
+  m_EditorClassIdentifier: 
+  Name: Get Off The Boat
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 1
+--- !u!114 &-3819826326323702812
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Frank Distance
+  m_EditorClassIdentifier: 
+  Name: Frank Distance
+  Min: 0
+  Max: 30
+  Default: 30
+  Exists: 1
+--- !u!114 &-3552749781310770337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Frank Friend State
+  m_EditorClassIdentifier: 
+  Name: Frank Friend State
+  Min: 0
+  Max: 3
+  Default: 0
+  Exists: 0
+--- !u!114 &-2975407860116438978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Intro Music/Note 3
+  m_EditorClassIdentifier: 
+  Name: Note 3
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 0
+--- !u!114 &-2573707863261366405
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Note 3
+  m_EditorClassIdentifier: 
+  Name: Note 3
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 1
+--- !u!114 &-2545921285534357678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Theme Player/Note 4
+  m_EditorClassIdentifier: 
+  Name: Note 4
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 0
+--- !u!114 &-2319175263362537193
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Theme Player/Note 7
+  m_EditorClassIdentifier: 
+  Name: Note 7
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 1
+--- !u!114 &-1941578132506263861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: Yvonne Friend State
+  m_EditorClassIdentifier: 
+  Name: Yvonne Friend State
+  Min: 0
+  Max: 3
+  Default: 0
+  Exists: 0
+--- !u!114 &-1692939487664512289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Theme Player/Note 3
+  m_EditorClassIdentifier: 
+  Name: Note 3
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 0
+--- !u!114 &-1425551884034800038
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -460,2117 +459,7 @@ MonoBehaviour:
   Max: 30
   Default: 30
   Exists: 1
---- !u!114 &-6222857984996111417
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 2
-  m_EditorClassIdentifier: 
-  Name: Note 2
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-6222002387763517597
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Yvonne Distance
-  m_EditorClassIdentifier: 
-  Name: Yvonne Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 1
---- !u!114 &-6214677303737967407
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: Yvonne Friend State
-  m_EditorClassIdentifier: 
-  Name: Yvonne Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 0
---- !u!114 &-6119629476476666094
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 7
-  m_EditorClassIdentifier: 
-  Name: Note 7
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-6080551555279424034
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 1
-  m_EditorClassIdentifier: 
-  Name: Note 1
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-6057169534004704853
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 7
-  m_EditorClassIdentifier: 
-  Name: Note 7
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-6039492481222378051
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Note Picker/Get Off The Boat
-  m_EditorClassIdentifier: 
-  Name: Get Off The Boat
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-5805813411751954262
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Get Off The Boat
-  m_EditorClassIdentifier: 
-  Name: Get Off The Boat
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-5778597239817347606
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Get Off The Boat
-  m_EditorClassIdentifier: 
-  Name: Get Off The Boat
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-5778037917262598516
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Leo Distance
-  m_EditorClassIdentifier: 
-  Name: Leo Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 0
---- !u!114 &-5736184053555461337
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Frank Friend State
-  m_EditorClassIdentifier: 
-  Name: Frank Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 0
---- !u!114 &-5673467820176233654
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Chad Distance
-  m_EditorClassIdentifier: 
-  Name: Chad Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 0
---- !u!114 &-5662454719359572831
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Leo Friend State
-  m_EditorClassIdentifier: 
-  Name: Leo Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 0
---- !u!114 &-5638570987106251420
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Chad Friend State
-  m_EditorClassIdentifier: 
-  Name: Chad Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 1
---- !u!114 &-5586744416363460213
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Frank Friend State
-  m_EditorClassIdentifier: 
-  Name: Frank Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 0
---- !u!114 &-5571380138348875350
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 6
-  m_EditorClassIdentifier: 
-  Name: Note 6
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-5545915463816453967
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 5
-  m_EditorClassIdentifier: 
-  Name: Note 5
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-5421531738580409318
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Karrie Friend State
-  m_EditorClassIdentifier: 
-  Name: Karrie Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 1
---- !u!114 &-5405197657309405816
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Karrie Friend State
-  m_EditorClassIdentifier: 
-  Name: Karrie Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 0
---- !u!114 &-5276162170443567542
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
-  m_Name: bank:/Master.bank
-  m_EditorClassIdentifier: 
-  Path: Assets/App/Music/BustedBeachMain/Build/Desktop/Master.bank
-  SubDir: 
-  lastModified: 637162446030000000
-  LoadResult: 0
-  FileSizes: []
-  Exists: 0
---- !u!114 &-5181819066454819015
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 5
-  m_EditorClassIdentifier: 
-  Name: Note 5
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &-5161561337915370427
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Get Off The Boat
-  m_EditorClassIdentifier: 
-  Name: Get Off The Boat
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &-5035743166273719199
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 2
-  m_EditorClassIdentifier: 
-  Name: Note 2
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-4941298535225867944
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 6
-  m_EditorClassIdentifier: 
-  Name: Note 6
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &-4828721317902567698
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 8
-  m_EditorClassIdentifier: 
-  Name: Note 8
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &-4796432460157393802
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 8
-  m_EditorClassIdentifier: 
-  Name: Note 8
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &-4771588113757262587
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 2
-  m_EditorClassIdentifier: 
-  Name: Note 2
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &-4758046202897196091
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Leo Distance
-  m_EditorClassIdentifier: 
-  Name: Leo Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 0
---- !u!114 &-4728002265286900520
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 6
-  m_EditorClassIdentifier: 
-  Name: Note 6
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-4674869913539593673
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Frank Distance
-  m_EditorClassIdentifier: 
-  Name: Frank Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 1
---- !u!114 &-4432711855182060738
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Chad Friend State
-  m_EditorClassIdentifier: 
-  Name: Chad Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 0
---- !u!114 &-4392965691869519864
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 1
-  m_EditorClassIdentifier: 
-  Name: Note 1
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-4350169767335582453
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Yvonne Distance
-  m_EditorClassIdentifier: 
-  Name: Yvonne Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 1
---- !u!114 &-4303892427357495969
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 5
-  m_EditorClassIdentifier: 
-  Name: Note 5
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &-4148444907015888486
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 3
-  m_EditorClassIdentifier: 
-  Name: Note 3
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-4064984853809412415
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Chad Distance
-  m_EditorClassIdentifier: 
-  Name: Chad Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 1
---- !u!114 &-3926591623902981630
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 2
-  m_EditorClassIdentifier: 
-  Name: Note 2
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &-3831029911793063275
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Distance to House
-  m_EditorClassIdentifier: 
-  Name: Distance to House
-  Min: 0
-  Max: 100
-  Default: 0
-  Exists: 0
---- !u!114 &-3828899000798818997
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Frank Friend State
-  m_EditorClassIdentifier: 
-  Name: Frank Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 0
---- !u!114 &-3809715315669583976
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: Yvonne Friend State
-  m_EditorClassIdentifier: 
-  Name: Yvonne Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 1
---- !u!114 &-3806499116135961873
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Chad Distance
-  m_EditorClassIdentifier: 
-  Name: Chad Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 0
---- !u!114 &-3721925805563709762
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 7
-  m_EditorClassIdentifier: 
-  Name: Note 7
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &-3530474758456049152
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 8
-  m_EditorClassIdentifier: 
-  Name: Note 8
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-3471960424357195221
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 3
-  m_EditorClassIdentifier: 
-  Name: Note 3
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-3200717768680031766
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 1
-  m_EditorClassIdentifier: 
-  Name: Note 1
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &-3200263893648885066
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 4
-  m_EditorClassIdentifier: 
-  Name: Note 4
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-3059907881356300176
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 6
-  m_EditorClassIdentifier: 
-  Name: Note 6
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-3052864406831595508
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 1
-  m_EditorClassIdentifier: 
-  Name: Note 1
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-3000109711455326137
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 3
-  m_EditorClassIdentifier: 
-  Name: Note 3
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-2825597843256224806
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: Yvonne Friend State
-  m_EditorClassIdentifier: 
-  Name: Yvonne Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 0
---- !u!114 &-2824587196563300473
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 6
-  m_EditorClassIdentifier: 
-  Name: Note 6
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-2760089254163901254
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 2
-  m_EditorClassIdentifier: 
-  Name: Note 2
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-2648700156859058551
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 1
-  m_EditorClassIdentifier: 
-  Name: Note 1
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-2640674282232968744
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Leo Friend State
-  m_EditorClassIdentifier: 
-  Name: Leo Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 0
---- !u!114 &-2526070147576441728
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 7
-  m_EditorClassIdentifier: 
-  Name: Note 7
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-2489188319048915330
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 2
-  m_EditorClassIdentifier: 
-  Name: Note 2
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-2177103718687989239
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/At House
-  m_EditorClassIdentifier: 
-  Name: At House
-  Min: 0
-  Max: 2
-  Default: 0
-  Exists: 0
---- !u!114 &-2095203063900996705
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 8
-  m_EditorClassIdentifier: 
-  Name: Note 8
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-2067385242264781018
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 4
-  m_EditorClassIdentifier: 
-  Name: Note 4
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-1930054608980749220
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 4
-  m_EditorClassIdentifier: 
-  Name: Note 4
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &-1898636106112233622
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Frank Friend State
-  m_EditorClassIdentifier: 
-  Name: Frank Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 1
---- !u!114 &-1704160805783315568
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 6
-  m_EditorClassIdentifier: 
-  Name: Note 6
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &-1511127583834502523
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 7
-  m_EditorClassIdentifier: 
-  Name: Note 7
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-1484185927145580018
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 7
-  m_EditorClassIdentifier: 
-  Name: Note 7
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-1469898457759494159
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Note Picker/Get Off The Boat
-  m_EditorClassIdentifier: 
-  Name: Get Off The Boat
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &-1464680413124487940
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 7
-  m_EditorClassIdentifier: 
-  Name: Note 7
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-1402021986494527449
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Frank Distance
-  m_EditorClassIdentifier: 
-  Name: Frank Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 0
---- !u!114 &-1230546892768159608
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 3
-  m_EditorClassIdentifier: 
-  Name: Note 3
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &-1222824652333987787
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Note Picker/Get Off The Boat
-  m_EditorClassIdentifier: 
-  Name: Get Off The Boat
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-1218065491334960144
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/At House
-  m_EditorClassIdentifier: 
-  Name: At House
-  Min: 0
-  Max: 2
-  Default: 0
-  Exists: 1
---- !u!114 &-1217794941001396944
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 6
-  m_EditorClassIdentifier: 
-  Name: Note 6
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &-1159643941369379593
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 2
-  m_EditorClassIdentifier: 
-  Name: Note 2
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-824304238211557992
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 7
-  m_EditorClassIdentifier: 
-  Name: Note 7
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &-525369247324863450
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Chad Distance
-  m_EditorClassIdentifier: 
-  Name: Chad Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 0
---- !u!114 &-237636128059878049
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/All Plus Friend
-  m_EditorClassIdentifier: 
-  Name: All Plus Friend
-  Min: 0
-  Max: 2
-  Default: 0
-  Exists: 0
---- !u!114 &-228744642454495924
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 7
-  m_EditorClassIdentifier: 
-  Name: Note 7
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-142460431290397738
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 4
-  m_EditorClassIdentifier: 
-  Name: Note 4
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-119359235633276911
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Frank Distance
-  m_EditorClassIdentifier: 
-  Name: Frank Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 1
---- !u!114 &-70602228022588610
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 5
-  m_EditorClassIdentifier: 
-  Name: Note 5
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &-69035819881960664
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Karrie Friend State
-  m_EditorClassIdentifier: 
-  Name: Karrie Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 0
---- !u!114 &-32189907624536926
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 6
-  m_EditorClassIdentifier: 
-  Name: Note 6
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
-  m_Name: FMODStudioCache
-  m_EditorClassIdentifier: 
-  EditorBanks:
-  - {fileID: 6047861576233034895}
-  - {fileID: 7022027802480003031}
-  EditorEvents:
-  - {fileID: 411503037009180280}
-  - {fileID: 2289543230058446552}
-  - {fileID: 3015656753497433036}
-  - {fileID: 5981662619431903025}
-  EditorParameters:
-  - {fileID: -3809715315669583976}
-  MasterBanks:
-  - {fileID: 7022027802480003031}
-  StringsBanks:
-  - {fileID: 6047861576233034895}
-  stringsBankWriteTime: 637162402371542361
-  cacheVersion: 3
---- !u!114 &170949932168661838
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 2
-  m_EditorClassIdentifier: 
-  Name: Note 2
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &238344735680912670
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/At House
-  m_EditorClassIdentifier: 
-  Name: At House
-  Min: 0
-  Max: 2
-  Default: 0
-  Exists: 0
---- !u!114 &304912182382083585
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/All Plus Friend
-  m_EditorClassIdentifier: 
-  Name: All Plus Friend
-  Min: 0
-  Max: 2
-  Default: 0
-  Exists: 0
---- !u!114 &411503037009180280
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
-  m_Name: event:/Intro Music
-  m_EditorClassIdentifier: 
-  Path: event:/Intro Music
-  guid: 6d5b72123dbbd647aa7f04dcde49d3ea
-  Banks:
-  - {fileID: 7022027802480003031}
-  IsStream: 1
-  Is3D: 0
-  IsOneShot: 0
-  Parameters:
-  - {fileID: -8751764444314135716}
-  - {fileID: 6126766044639575932}
-  - {fileID: 1952296477083066711}
-  - {fileID: 7670465516990552479}
-  - {fileID: 8665565912636572980}
-  - {fileID: -4303892427357495969}
-  - {fileID: -5161561337915370427}
-  - {fileID: -6304712509412940908}
-  - {fileID: 1563196663893100236}
-  - {fileID: 2057589661121236923}
-  - {fileID: -6962091891163313415}
-  MinDistance: 0
-  MaxDistance: 0
-  Length: 37734
---- !u!114 &527141028856732652
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Distance to House
-  m_EditorClassIdentifier: 
-  Name: Distance to House
-  Min: 0
-  Max: 100
-  Default: 0
-  Exists: 1
---- !u!114 &531550425727618780
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Leo Distance
-  m_EditorClassIdentifier: 
-  Name: Leo Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 1
---- !u!114 &677454290463760177
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 6
-  m_EditorClassIdentifier: 
-  Name: Note 6
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &790591754981093038
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 7
-  m_EditorClassIdentifier: 
-  Name: Note 7
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &849254498767776326
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 3
-  m_EditorClassIdentifier: 
-  Name: Note 3
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &854183896704045632
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 6
-  m_EditorClassIdentifier: 
-  Name: Note 6
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &929947690797133406
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 4
-  m_EditorClassIdentifier: 
-  Name: Note 4
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &1021809582128876302
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 6
-  m_EditorClassIdentifier: 
-  Name: Note 6
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &1156590686506101049
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 1
-  m_EditorClassIdentifier: 
-  Name: Note 1
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &1242845444193354599
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 3
-  m_EditorClassIdentifier: 
-  Name: Note 3
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &1337111207915588888
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 5
-  m_EditorClassIdentifier: 
-  Name: Note 5
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &1405628325195523649
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 7
-  m_EditorClassIdentifier: 
-  Name: Note 7
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &1528403342503055442
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Chad Friend State
-  m_EditorClassIdentifier: 
-  Name: Chad Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 1
---- !u!114 &1563196663893100236
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 4
-  m_EditorClassIdentifier: 
-  Name: Note 4
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &1601196253492107610
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/At House
-  m_EditorClassIdentifier: 
-  Name: At House
-  Min: 0
-  Max: 2
-  Default: 0
-  Exists: 0
---- !u!114 &1789049433049372313
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 3
-  m_EditorClassIdentifier: 
-  Name: Note 3
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &1952296477083066711
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 2
-  m_EditorClassIdentifier: 
-  Name: Note 2
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &1981072468626710227
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 5
-  m_EditorClassIdentifier: 
-  Name: Note 5
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &2010120401874851233
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 7
-  m_EditorClassIdentifier: 
-  Name: Note 7
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &2057589661121236923
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 8
-  m_EditorClassIdentifier: 
-  Name: Note 8
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &2069322120310449243
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 6
-  m_EditorClassIdentifier: 
-  Name: Note 6
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &2095601198396824018
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 6
-  m_EditorClassIdentifier: 
-  Name: Note 6
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &2099751079251710557
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 2
-  m_EditorClassIdentifier: 
-  Name: Note 2
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &2100137605042864327
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 3
-  m_EditorClassIdentifier: 
-  Name: Note 3
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &2211995448187304697
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Get Off The Boat
-  m_EditorClassIdentifier: 
-  Name: Get Off The Boat
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &2247954988442889216
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 6
-  m_EditorClassIdentifier: 
-  Name: Note 6
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &2289543230058446552
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
-  m_Name: event:/Note Picker
-  m_EditorClassIdentifier: 
-  Path: event:/Note Picker
-  guid: 75bce17076a89b48a01765bb877d2550
-  Banks:
-  - {fileID: 7022027802480003031}
-  IsStream: 0
-  Is3D: 0
-  IsOneShot: 1
-  Parameters:
-  - {fileID: 4199953467507993959}
-  MinDistance: 0
-  MaxDistance: 0
-  Length: 0
---- !u!114 &2445855249936193688
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 4
-  m_EditorClassIdentifier: 
-  Name: Note 4
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &2461606348036691469
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 3
-  m_EditorClassIdentifier: 
-  Name: Note 3
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &2484282541874425062
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 5
-  m_EditorClassIdentifier: 
-  Name: Note 5
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &2495841201450191375
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 8
-  m_EditorClassIdentifier: 
-  Name: Note 8
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &2509946979741063342
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 5
-  m_EditorClassIdentifier: 
-  Name: Note 5
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &2516391532884464225
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 3
-  m_EditorClassIdentifier: 
-  Name: Note 3
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &2634572239365633503
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Get Off The Boat
-  m_EditorClassIdentifier: 
-  Name: Get Off The Boat
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &2880037242395043840
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Chad Friend State
-  m_EditorClassIdentifier: 
-  Name: Chad Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 0
---- !u!114 &2946306827588927568
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 7
-  m_EditorClassIdentifier: 
-  Name: Note 7
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &3015656753497433036
+--- !u!114 &-1105817215440925933
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2585,101 +474,33 @@ MonoBehaviour:
   Path: event:/Main Music
   guid: 8a6f38702935ab42b97a1c551ad65ac6
   Banks:
-  - {fileID: 7022027802480003031}
+  - {fileID: 5225635093639186391}
   IsStream: 1
   Is3D: 0
   IsOneShot: 0
   Parameters:
-  - {fileID: -4796432460157393802}
-  - {fileID: -7316426599119606706}
-  - {fileID: 2010120401874851233}
-  - {fileID: -4350169767335582453}
-  - {fileID: 7591099114200438798}
-  - {fileID: -1217794941001396944}
-  - {fileID: 4564540697249084264}
-  - {fileID: -5638570987106251420}
-  - {fileID: 8604830785595050901}
-  - {fileID: -4674869913539593673}
-  - {fileID: 4793490398368884331}
-  - {fileID: 8045668338283876593}
-  - {fileID: 531550425727618780}
-  - {fileID: -4771588113757262587}
-  - {fileID: 6186301071654815452}
-  - {fileID: 7578931108476453187}
-  - {fileID: -1898636106112233622}
-  - {fileID: 3129527507732921650}
+  - {fileID: 1802626470703207409}
+  - {fileID: 6853880995427318755}
+  - {fileID: 3537423348692296049}
+  - {fileID: -4560563563439740173}
+  - {fileID: 3220273920652702502}
+  - {fileID: 8419374936386642194}
+  - {fileID: -1425551884034800038}
+  - {fileID: -7460233944290975631}
+  - {fileID: 296111057414758854}
+  - {fileID: -3819826326323702812}
+  - {fileID: 7526602903417694242}
+  - {fileID: 3489132547191843370}
+  - {fileID: 6581687055899691542}
+  - {fileID: -7063523549984030811}
+  - {fileID: -382125989141568237}
+  - {fileID: -2573707863261366405}
+  - {fileID: -12619639674970542}
+  - {fileID: -8951981138498190388}
   MinDistance: 0
   MaxDistance: 0
   Length: 75428
---- !u!114 &3076273514377889195
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 6
-  m_EditorClassIdentifier: 
-  Name: Note 6
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &3129527507732921650
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 1
-  m_EditorClassIdentifier: 
-  Name: Note 1
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &3163542367533284657
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 1
-  m_EditorClassIdentifier: 
-  Name: Note 1
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &3252828331745481122
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 5
-  m_EditorClassIdentifier: 
-  Name: Note 5
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &3357530065952056363
+--- !u!114 &-960732064831681489
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2693,11 +514,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Path: Assets/App/Music/BustedBeachMain/Build/Desktop/Master.bank
   SubDir: 
-  lastModified: 637162445698610127
+  lastModified: 637162711952522551
   LoadResult: 0
   FileSizes: []
   Exists: 0
---- !u!114 &3396887508354397017
+--- !u!114 &-869082442311514643
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2707,14 +528,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 3
+  m_Name: parameter:/Main Music/Note 7
   m_EditorClassIdentifier: 
-  Name: Note 3
+  Name: Note 7
   Min: 0
   Max: 6
   Default: 0
   Exists: 0
---- !u!114 &3454633379693854285
+--- !u!114 &-695764247823685078
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2723,15 +544,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/All Plus Friend
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
   m_EditorClassIdentifier: 
-  Name: All Plus Friend
-  Min: 0
-  Max: 2
-  Default: 0
+  Path: Assets/App/Music/BustedBeachMain/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637211716764645209
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1860
   Exists: 1
---- !u!114 &3477927545013309551
+--- !u!114 &-492581669348261841
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2741,303 +565,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/All Plus Friend
+  m_Name: parameter:/Intro Music/Note 5
   m_EditorClassIdentifier: 
-  Name: All Plus Friend
-  Min: 0
-  Max: 2
-  Default: 0
-  Exists: 0
---- !u!114 &3562268989661968978
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 3
-  m_EditorClassIdentifier: 
-  Name: Note 3
+  Name: Note 5
   Min: 0
   Max: 6
   Default: 0
   Exists: 1
---- !u!114 &3607223782183852047
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Yvonne Distance
-  m_EditorClassIdentifier: 
-  Name: Yvonne Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 0
---- !u!114 &3762440021055606447
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 3
-  m_EditorClassIdentifier: 
-  Name: Note 3
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &3780046278127857060
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Karrie Friend State
-  m_EditorClassIdentifier: 
-  Name: Karrie Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 0
---- !u!114 &3940121639503012822
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/At House
-  m_EditorClassIdentifier: 
-  Name: At House
-  Min: 0
-  Max: 2
-  Default: 0
-  Exists: 0
---- !u!114 &3946987890028007066
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 1
-  m_EditorClassIdentifier: 
-  Name: Note 1
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &3958882774390595317
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 1
-  m_EditorClassIdentifier: 
-  Name: Note 1
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &4023417873227206718
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Leo Distance
-  m_EditorClassIdentifier: 
-  Name: Leo Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 1
---- !u!114 &4177786031863568035
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: Yvonne Friend State
-  m_EditorClassIdentifier: 
-  Name: Yvonne Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 1
---- !u!114 &4199953467507993959
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Note Picker/Get Off The Boat
-  m_EditorClassIdentifier: 
-  Name: Get Off The Boat
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &4422256551394549483
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Karrie Distance
-  m_EditorClassIdentifier: 
-  Name: Karrie Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 0
---- !u!114 &4446682911239960718
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 3
-  m_EditorClassIdentifier: 
-  Name: Note 3
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &4518754329982534264
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 4
-  m_EditorClassIdentifier: 
-  Name: Note 4
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &4564540697249084264
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Karrie Distance
-  m_EditorClassIdentifier: 
-  Name: Karrie Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 1
---- !u!114 &4586972851473972877
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 2
-  m_EditorClassIdentifier: 
-  Name: Note 2
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &4595495971006340317
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 1
-  m_EditorClassIdentifier: 
-  Name: Note 1
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &4622310126803218539
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Frank Distance
-  m_EditorClassIdentifier: 
-  Name: Frank Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 0
---- !u!114 &4753227348386516604
+--- !u!114 &-446812758865975739
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3053,312 +588,8 @@ MonoBehaviour:
   Min: 0
   Max: 6
   Default: 0
-  Exists: 0
---- !u!114 &4768573130617647105
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Chad Friend State
-  m_EditorClassIdentifier: 
-  Name: Chad Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 0
---- !u!114 &4775135103066238767
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Frank Distance
-  m_EditorClassIdentifier: 
-  Name: Frank Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 0
---- !u!114 &4792534151486289798
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Frank Friend State
-  m_EditorClassIdentifier: 
-  Name: Frank Friend State
-  Min: 0
-  Max: 3
-  Default: 0
   Exists: 1
---- !u!114 &4793490398368884331
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Karrie Friend State
-  m_EditorClassIdentifier: 
-  Name: Karrie Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 1
---- !u!114 &4806704182392190032
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
-  m_Name: bank:/Master.bank
-  m_EditorClassIdentifier: 
-  Path: Assets/App/Music/BustedBeachMain/Build/Desktop/Master.bank
-  SubDir: 
-  lastModified: 637162446030000000
-  LoadResult: 0
-  FileSizes: []
-  Exists: 1
---- !u!114 &5104794403957372423
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: Yvonne Friend State
-  m_EditorClassIdentifier: 
-  Name: Yvonne Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 0
---- !u!114 &5114403274781340753
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 5
-  m_EditorClassIdentifier: 
-  Name: Note 5
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &5119914591674068696
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 4
-  m_EditorClassIdentifier: 
-  Name: Note 4
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &5151082109360949708
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Leo Friend State
-  m_EditorClassIdentifier: 
-  Name: Leo Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 0
---- !u!114 &5260601288199686529
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 5
-  m_EditorClassIdentifier: 
-  Name: Note 5
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &5503404937376854951
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 2
-  m_EditorClassIdentifier: 
-  Name: Note 2
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &5512295063538366662
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 2
-  m_EditorClassIdentifier: 
-  Name: Note 2
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &5525482275654182867
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 1
-  m_EditorClassIdentifier: 
-  Name: Note 1
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &5812932823531557278
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 4
-  m_EditorClassIdentifier: 
-  Name: Note 4
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &5926095262311189948
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 8
-  m_EditorClassIdentifier: 
-  Name: Note 8
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &5955243442400954128
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 1
-  m_EditorClassIdentifier: 
-  Name: Note 1
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &5981662619431903025
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
-  m_Name: event:/Theme Player
-  m_EditorClassIdentifier: 
-  Path: event:/Theme Player
-  guid: fb6349238e705e48a153be0f47991336
-  Banks:
-  - {fileID: 7022027802480003031}
-  IsStream: 0
-  Is3D: 0
-  IsOneShot: 1
-  Parameters:
-  - {fileID: 2095601198396824018}
-  - {fileID: 1405628325195523649}
-  - {fileID: -7180414044218144958}
-  - {fileID: 5812932823531557278}
-  - {fileID: 1242845444193354599}
-  - {fileID: 5525482275654182867}
-  - {fileID: 8219627239657234413}
-  - {fileID: 7158273044303378798}
-  MinDistance: 0
-  MaxDistance: 0
-  Length: 8000
---- !u!114 &6026927937260534536
+--- !u!114 &-435665236216062303
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3375,7 +606,7 @@ MonoBehaviour:
   Max: 6
   Default: 0
   Exists: 0
---- !u!114 &6027742055959465943
+--- !u!114 &-392258767335543392
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3385,119 +616,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 7
+  m_Name: parameter:/Main Music/Chad Friend State
   m_EditorClassIdentifier: 
-  Name: Note 7
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &6047861576233034895
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
-  m_Name: bank:/Master.strings.bank
-  m_EditorClassIdentifier: 
-  Path: Assets/App/Music/BustedBeachMain/Build/Desktop/Master.strings.bank
-  SubDir: 
-  lastModified: 637162402371542361
-  LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 1860
-  Exists: 1
---- !u!114 &6062193775188831195
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: Yvonne Friend State
-  m_EditorClassIdentifier: 
-  Name: Yvonne Friend State
+  Name: Chad Friend State
   Min: 0
   Max: 3
   Default: 0
   Exists: 0
---- !u!114 &6100865670894495890
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Karrie Distance
-  m_EditorClassIdentifier: 
-  Name: Karrie Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 0
---- !u!114 &6110593715218210212
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Distance to House
-  m_EditorClassIdentifier: 
-  Name: Distance to House
-  Min: 0
-  Max: 100
-  Default: 0
-  Exists: 0
---- !u!114 &6113616874749947396
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 2
-  m_EditorClassIdentifier: 
-  Name: Note 2
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &6126766044639575932
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 1
-  m_EditorClassIdentifier: 
-  Name: Note 1
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &6186301071654815452
+--- !u!114 &-382125989141568237
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3514,7 +640,7 @@ MonoBehaviour:
   Max: 30
   Default: 30
   Exists: 1
---- !u!114 &6401959203063657852
+--- !u!114 &-376988443058460668
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3524,14 +650,141 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 4
+  m_Name: parameter:/Intro Music/Note 1
+  m_EditorClassIdentifier: 
+  Name: Note 1
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 1
+--- !u!114 &-283443870052055480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Intro Music/Note 4
   m_EditorClassIdentifier: 
   Name: Note 4
   Min: 0
   Max: 6
   Default: 0
   Exists: 1
---- !u!114 &6671672947485385929
+--- !u!114 &-186063149499441657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Theme Player/Note 1
+  m_EditorClassIdentifier: 
+  Name: Note 1
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 1
+--- !u!114 &-12619639674970542
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Frank Friend State
+  m_EditorClassIdentifier: 
+  Name: Frank Friend State
+  Min: 0
+  Max: 3
+  Default: 0
+  Exists: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -695764247823685078}
+  - {fileID: 5225635093639186391}
+  EditorEvents:
+  - {fileID: 5754655912339909967}
+  - {fileID: 5980275687509415053}
+  - {fileID: -1105817215440925933}
+  - {fileID: 10423485811322325}
+  EditorParameters:
+  - {fileID: 6471999822638678331}
+  MasterBanks:
+  - {fileID: 5225635093639186391}
+  StringsBanks:
+  - {fileID: -695764247823685078}
+  stringsBankWriteTime: 637211716764645209
+  cacheVersion: 3
+--- !u!114 &10423485811322325
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Theme Player
+  m_EditorClassIdentifier: 
+  Path: event:/Theme Player
+  guid: fb6349238e705e48a153be0f47991336
+  Banks:
+  - {fileID: 5225635093639186391}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 4982608100830338709}
+  - {fileID: -2319175263362537193}
+  - {fileID: 496602034702682010}
+  - {fileID: 1569301213251848686}
+  - {fileID: 9164886526502302251}
+  - {fileID: -186063149499441657}
+  - {fileID: 6090473937228974615}
+  - {fileID: 1669729840389832316}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 8000
+--- !u!114 &258631467490594014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Karrie Distance
+  m_EditorClassIdentifier: 
+  Name: Karrie Distance
+  Min: 0
+  Max: 30
+  Default: 30
+  Exists: 0
+--- !u!114 &296111057414758854
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3548,7 +801,7 @@ MonoBehaviour:
   Max: 3
   Default: 0
   Exists: 1
---- !u!114 &6846775365743591743
+--- !u!114 &496602034702682010
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3558,14 +811,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Yvonne Distance
+  m_Name: parameter:/Theme Player/Note 8
   m_EditorClassIdentifier: 
-  Name: Yvonne Distance
+  Name: Note 8
   Min: 0
-  Max: 30
-  Default: 30
-  Exists: 0
---- !u!114 &6871026857042001682
+  Max: 6
+  Default: 0
+  Exists: 1
+--- !u!114 &753091620119244548
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3582,213 +835,7 @@ MonoBehaviour:
   Max: 6
   Default: 0
   Exists: 0
---- !u!114 &6913928776868441369
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
-  m_Name: bank:/Master.bank
-  m_EditorClassIdentifier: 
-  Path: Assets/App/Music/BustedBeachMain/Build/Desktop/Master.bank
-  SubDir: 
-  lastModified: 637162445698610127
-  LoadResult: 0
-  FileSizes: []
-  Exists: 0
---- !u!114 &6943028202127802927
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 2
-  m_EditorClassIdentifier: 
-  Name: Note 2
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &6956450960103827913
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 8
-  m_EditorClassIdentifier: 
-  Name: Note 8
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &6994855465299063493
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 8
-  m_EditorClassIdentifier: 
-  Name: Note 8
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &7022027802480003031
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
-  m_Name: bank:/Master.bank
-  m_EditorClassIdentifier: 
-  Path: Assets/App/Music/BustedBeachMain/Build/Desktop/Master.bank
-  SubDir: 
-  lastModified: 637162445698610127
-  LoadResult: 0
-  FileSizes: []
-  Exists: 1
---- !u!114 &7158273044303378798
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 5
-  m_EditorClassIdentifier: 
-  Name: Note 5
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &7200920241625439028
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Leo Distance
-  m_EditorClassIdentifier: 
-  Name: Leo Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 0
---- !u!114 &7203808502355528064
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 6
-  m_EditorClassIdentifier: 
-  Name: Note 6
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &7219589041234241193
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/All Plus Friend
-  m_EditorClassIdentifier: 
-  Name: All Plus Friend
-  Min: 0
-  Max: 2
-  Default: 0
-  Exists: 0
---- !u!114 &7248646308601454130
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Frank Distance
-  m_EditorClassIdentifier: 
-  Name: Frank Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 0
---- !u!114 &7257123113442917385
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 4
-  m_EditorClassIdentifier: 
-  Name: Note 4
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &7333561587299585259
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 4
-  m_EditorClassIdentifier: 
-  Name: Note 4
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &7442050925712012436
+--- !u!114 &1026715611588185559
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3805,58 +852,7 @@ MonoBehaviour:
   Max: 3
   Default: 0
   Exists: 0
---- !u!114 &7471230458649711167
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 1
-  m_EditorClassIdentifier: 
-  Name: Note 1
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &7494502524599995572
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 5
-  m_EditorClassIdentifier: 
-  Name: Note 5
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &7578931108476453187
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 3
-  m_EditorClassIdentifier: 
-  Name: Note 3
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &7591099114200438798
+--- !u!114 &1087561850324506964
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3872,42 +868,8 @@ MonoBehaviour:
   Min: 0
   Max: 2
   Default: 0
-  Exists: 1
---- !u!114 &7670465516990552479
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Distance to House
-  m_EditorClassIdentifier: 
-  Name: Distance to House
-  Min: 0
-  Max: 100
-  Default: 0
-  Exists: 1
---- !u!114 &7756113658190701405
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Leo Distance
-  m_EditorClassIdentifier: 
-  Name: Leo Distance
-  Min: 0
-  Max: 30
-  Default: 30
   Exists: 0
---- !u!114 &7826301201691876498
+--- !u!114 &1159685008599087688
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3917,65 +879,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 2
+  m_Name: parameter:/Theme Player/Note 1
   m_EditorClassIdentifier: 
-  Name: Note 2
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &7906968897399674371
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 7
-  m_EditorClassIdentifier: 
-  Name: Note 7
+  Name: Note 1
   Min: 0
   Max: 6
   Default: 0
   Exists: 0
---- !u!114 &7984365121269680002
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 8
-  m_EditorClassIdentifier: 
-  Name: Note 8
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &8045668338283876593
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 5
-  m_EditorClassIdentifier: 
-  Name: Note 5
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 1
---- !u!114 &8140724977045205001
+--- !u!114 &1569301213251848686
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3992,7 +903,7 @@ MonoBehaviour:
   Max: 6
   Default: 0
   Exists: 1
---- !u!114 &8142327108914363827
+--- !u!114 &1669729840389832316
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4002,14 +913,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Note Picker/Get Off The Boat
+  m_Name: parameter:/Theme Player/Note 5
   m_EditorClassIdentifier: 
-  Name: Get Off The Boat
+  Name: Note 5
   Min: 0
   Max: 6
   Default: 0
-  Exists: 0
---- !u!114 &8219627239657234413
+  Exists: 1
+--- !u!114 &1802626470703207409
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4019,14 +930,82 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 2
+  m_Name: parameter:/Main Music/Note 8
+  m_EditorClassIdentifier: 
+  Name: Note 8
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 1
+--- !u!114 &2521705095857569150
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Intro Music/Note 2
   m_EditorClassIdentifier: 
   Name: Note 2
   Min: 0
   Max: 6
   Default: 0
+  Exists: 0
+--- !u!114 &3220273920652702502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/All Plus Friend
+  m_EditorClassIdentifier: 
+  Name: All Plus Friend
+  Min: 0
+  Max: 2
+  Default: 0
   Exists: 1
---- !u!114 &8382115176129466421
+--- !u!114 &3489132547191843370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Note 5
+  m_EditorClassIdentifier: 
+  Name: Note 5
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 1
+--- !u!114 &3537423348692296049
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Note 7
+  m_EditorClassIdentifier: 
+  Name: Note 7
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 1
+--- !u!114 &3639321353163198837
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4043,194 +1022,7 @@ MonoBehaviour:
   Max: 30
   Default: 30
   Exists: 0
---- !u!114 &8412444021527050558
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 4
-  m_EditorClassIdentifier: 
-  Name: Note 4
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &8519406881410971741
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Theme Player/Note 3
-  m_EditorClassIdentifier: 
-  Name: Note 3
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &8600985307156347222
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 6
-  m_EditorClassIdentifier: 
-  Name: Note 6
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &8604830785595050901
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Leo Friend State
-  m_EditorClassIdentifier: 
-  Name: Leo Friend State
-  Min: 0
-  Max: 3
-  Default: 0
-  Exists: 1
---- !u!114 &8665565912636572980
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/At House
-  m_EditorClassIdentifier: 
-  Name: At House
-  Min: 0
-  Max: 2
-  Default: 0
-  Exists: 1
---- !u!114 &8786967695696182516
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Chad Distance
-  m_EditorClassIdentifier: 
-  Name: Chad Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 0
---- !u!114 &8806876667142268450
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Note 5
-  m_EditorClassIdentifier: 
-  Name: Note 5
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &8860521569759775781
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 5
-  m_EditorClassIdentifier: 
-  Name: Note 5
-  Min: 0
-  Max: 6
-  Default: 0
-  Exists: 0
---- !u!114 &8868280418899161338
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Karrie Distance
-  m_EditorClassIdentifier: 
-  Name: Karrie Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 0
---- !u!114 &8959315116042477517
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Main Music/Karrie Distance
-  m_EditorClassIdentifier: 
-  Name: Karrie Distance
-  Min: 0
-  Max: 30
-  Default: 30
-  Exists: 0
---- !u!114 &9031389397427604414
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Distance to House
-  m_EditorClassIdentifier: 
-  Name: Distance to House
-  Min: 0
-  Max: 100
-  Default: 0
-  Exists: 0
---- !u!114 &9036102310817500683
+--- !u!114 &4237275093677481154
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4247,7 +1039,7 @@ MonoBehaviour:
   Max: 6
   Default: 0
   Exists: 0
---- !u!114 &9138278920959538397
+--- !u!114 &4875618648471217474
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4257,10 +1049,494 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Intro Music/Note 1
+  m_Name: parameter:/Theme Player/Note 2
+  m_EditorClassIdentifier: 
+  Name: Note 2
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 0
+--- !u!114 &4939041635008664162
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Intro Music/Note 6
+  m_EditorClassIdentifier: 
+  Name: Note 6
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 1
+--- !u!114 &4971105650149489569
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Karrie Friend State
+  m_EditorClassIdentifier: 
+  Name: Karrie Friend State
+  Min: 0
+  Max: 3
+  Default: 0
+  Exists: 0
+--- !u!114 &4982608100830338709
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Theme Player/Note 6
+  m_EditorClassIdentifier: 
+  Name: Note 6
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 1
+--- !u!114 &5225635093639186391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/App/Music/BustedBeachMain/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637211716771793177
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &5754655912339909967
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Intro Music
+  m_EditorClassIdentifier: 
+  Path: event:/Intro Music
+  guid: 6d5b72123dbbd647aa7f04dcde49d3ea
+  Banks:
+  - {fileID: 5225635093639186391}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 8391521643539053262}
+  - {fileID: -376988443058460668}
+  - {fileID: -4678231487866425525}
+  - {fileID: 7501972767932266330}
+  - {fileID: -5376579674292858604}
+  - {fileID: -492581669348261841}
+  - {fileID: -4300789119926699570}
+  - {fileID: 4939041635008664162}
+  - {fileID: -283443870052055480}
+  - {fileID: -7185581489325468068}
+  - {fileID: -446812758865975739}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 37734
+--- !u!114 &5980275687509415053
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Note Picker
+  m_EditorClassIdentifier: 
+  Path: event:/Note Picker
+  guid: 75bce17076a89b48a01765bb877d2550
+  Banks:
+  - {fileID: 5225635093639186391}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -9211426252222792609}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
+--- !u!114 &6059114891110689558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Intro Music/Note 4
+  m_EditorClassIdentifier: 
+  Name: Note 4
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 0
+--- !u!114 &6090473937228974615
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Theme Player/Note 2
+  m_EditorClassIdentifier: 
+  Name: Note 2
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 1
+--- !u!114 &6454047290741993562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Intro Music/Distance to House
+  m_EditorClassIdentifier: 
+  Name: Distance to House
+  Min: 0
+  Max: 100
+  Default: 0
+  Exists: 0
+--- !u!114 &6463706855682326817
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Theme Player/Note 6
+  m_EditorClassIdentifier: 
+  Name: Note 6
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 0
+--- !u!114 &6471999822638678331
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: Yvonne Friend State
+  m_EditorClassIdentifier: 
+  Name: Yvonne Friend State
+  Min: 0
+  Max: 3
+  Default: 0
+  Exists: 1
+--- !u!114 &6581687055899691542
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Leo Distance
+  m_EditorClassIdentifier: 
+  Name: Leo Distance
+  Min: 0
+  Max: 30
+  Default: 30
+  Exists: 1
+--- !u!114 &6853880995427318755
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Note 4
+  m_EditorClassIdentifier: 
+  Name: Note 4
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 1
+--- !u!114 &7128886640239208601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Intro Music/Note 7
+  m_EditorClassIdentifier: 
+  Name: Note 7
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 0
+--- !u!114 &7319623352506287681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Leo Distance
+  m_EditorClassIdentifier: 
+  Name: Leo Distance
+  Min: 0
+  Max: 30
+  Default: 30
+  Exists: 0
+--- !u!114 &7488676740395643592
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Note 8
+  m_EditorClassIdentifier: 
+  Name: Note 8
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 0
+--- !u!114 &7493532353312885304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Intro Music/Note 8
+  m_EditorClassIdentifier: 
+  Name: Note 8
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 0
+--- !u!114 &7501972767932266330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Intro Music/Distance to House
+  m_EditorClassIdentifier: 
+  Name: Distance to House
+  Min: 0
+  Max: 100
+  Default: 0
+  Exists: 1
+--- !u!114 &7526602903417694242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Karrie Friend State
+  m_EditorClassIdentifier: 
+  Name: Karrie Friend State
+  Min: 0
+  Max: 3
+  Default: 0
+  Exists: 1
+--- !u!114 &7607631520036905163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Note 1
   m_EditorClassIdentifier: 
   Name: Note 1
   Min: 0
   Max: 6
   Default: 0
   Exists: 0
+--- !u!114 &7700468907207456697
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Note 4
+  m_EditorClassIdentifier: 
+  Name: Note 4
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 0
+--- !u!114 &8165584065313743319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Note 3
+  m_EditorClassIdentifier: 
+  Name: Note 3
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 0
+--- !u!114 &8391521643539053262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Intro Music/Note 3
+  m_EditorClassIdentifier: 
+  Name: Note 3
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 1
+--- !u!114 &8419374936386642194
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Note 6
+  m_EditorClassIdentifier: 
+  Name: Note 6
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 1
+--- !u!114 &8659471913870464083
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Main Music/Frank Distance
+  m_EditorClassIdentifier: 
+  Name: Frank Distance
+  Min: 0
+  Max: 30
+  Default: 30
+  Exists: 0
+--- !u!114 &8670448481216516380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Theme Player/Note 7
+  m_EditorClassIdentifier: 
+  Name: Note 7
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 0
+--- !u!114 &9164886526502302251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Theme Player/Note 3
+  m_EditorClassIdentifier: 
+  Name: Note 3
+  Min: 0
+  Max: 6
+  Default: 0
+  Exists: 1

@@ -13,9 +13,9 @@ public class PlayerToNPCDistance : MonoBehaviour
 
         npcDistances = new Dictionary<string, float>();
 
-        foreach(string npcName in NPCController.NPCNames){
+        foreach(NPC npc in NPCController.NPCs.Values){
 
-            npcDistances.Add(npcName, 0);
+            npcDistances.Add(npc.name, 0);
 
         }
         
@@ -24,7 +24,7 @@ public class PlayerToNPCDistance : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        foreach(GameObject npc in GameObject.FindGameObjectsWithTag("NPC")){
+        foreach(NPC npc in NPCController.NPCs.Values){
 
             float playerToNPCDistance = (transform.position - npc.transform.position).magnitude;
             npcDistances[npc.name] = playerToNPCDistance;

@@ -8,19 +8,6 @@ public class MainMusicControl : MonoBehaviour
     public PlayerToNPCDistance distance;
 
     private float multiplier = 3.5f;
-    private List<GameObject> NPCs;
-
-    void Start(){
-
-        NPCs = new List<GameObject>();
-
-        foreach(string NPCName in NPCController.NPCNames){
-
-            NPCs.Add(GameObject.Find(NPCName));
-
-        }
-
-    }
 
     // Update is called once per frame
     void Update()
@@ -75,14 +62,13 @@ public class MainMusicControl : MonoBehaviour
                 main.SetParameter("Leo Distance", distance.npcDistances["Leo"] * multiplier);
             }
 
-            foreach(GameObject NPC in NPCs){
+            foreach(NPC npc in NPCController.NPCs.Values){
 
-                string npcName = NPC.name;
-                int friendship = NPCController.friendship[npcName];
+                int friendship = npc.friendship;
 
                 if(friendship > 3){
 
-                    main.SetParameter(npcName + " Friend State", NPCController.friendship[npcName] - 3);
+                    main.SetParameter(npc.name + " Friend State", friendship - 3);
 
                 }
 

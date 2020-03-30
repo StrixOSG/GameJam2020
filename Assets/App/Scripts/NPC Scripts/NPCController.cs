@@ -5,40 +5,16 @@ using UnityEngine;
 public class NPCController : MonoBehaviour
 {
 
-    public static List<string> NPCNames = 
-        new List<string>() {
-            "Chad",
-            "Frank",
-            "Karrie",
-            "Leo",
-            "Yvonne"};
-
-    public Yvonne yvonne;
-    public Karrie karrie;
-    public Leo leo;
-    public Frank frank;
-    public Chad chad;
-    public static Dictionary<string, int> friendship;
-
-    void Start(){
-
-        friendship = new Dictionary<string, int>();
-        friendship.Add("Yvonne", yvonne.friendship);
-        friendship.Add("Karrie", karrie.friendship);
-        friendship.Add("Leo", leo.friendship);
-        friendship.Add("Frank", frank.friendship);
-        friendship.Add("Chad", chad.friendship);
-
-    }
-
-    void Update(){
-
-        friendship["Yvonne"] = yvonne.friendship;
-        friendship["Karrie"] = karrie.friendship;
-        friendship["Leo"] = leo.friendship;
-        friendship["Frank"] = frank.friendship;
-        friendship["Chad"] = chad.friendship;
-
-    }
+    public static SortedDictionary<string, NPC> NPCs = new SortedDictionary<string, NPC>();
+    public Yvonne yvonneNPC;
+    public Karrie karrieNPC;
+    public Leo leoNPC;
+    public Frank frankNPC;
+    public Chad chadNPC;
+    public static string chad = "Chad";
+    public static string frank = "Frank";
+    public static string karrie = "Karrie";
+    public static string leo = "Leo";
+    public static string yvonne = "Yvonne";
     
 }

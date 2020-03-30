@@ -2,12 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Yvonne : NPC {
-
-    string[][] speeches;
-    int[] reqf;
-    int[] reqq;
-    int speechIndex;
+public class Yvonne: NPC {
 
     void setSpeech(int ind, string str, int reqf1, int reqq1) {
         speeches[ind] = new string[1];
@@ -17,6 +12,10 @@ public class Yvonne : NPC {
 
     // Start is called before the first frame update
     void Start() {
+
+        name = "Yvonne";
+        NPCController.NPCs.Add(name, this);
+
         speeches = new string[10][];
         reqf = new int[10];
         reqq = new int[10];
@@ -124,7 +123,10 @@ public class Yvonne : NPC {
                     }
                 }
 
-                int speechNum = choices[speechIndex % num];
+                int speechNum;
+
+                speechNum = choices[speechIndex % num];
+
                 trigger.dialogue.sentences = speeches[speechNum];
             }
 
